@@ -1,0 +1,35 @@
+body {
+  font-family: "verdana";
+  background-color: #474747;
+  padding: 20px 10px;
+  max-width: 1000px;
+  margin: auto;
+}
+h1{
+  text-align: center;
+  background-color: #C0C0C0;
+  border-radius: 20px;
+}
+h5 {
+  text-align: center;
+}
+h2{
+  background-color: #7B7E82;
+  Border-radius: 20px;
+  padding: 10px 10px;
+}
+.stage0{
+  background-color: #C0C0C0;
+  Border-radius: 20px;
+}
+.stage1work1{
+  background-color: #C0C0C0;
+  Border-radius: 20px;
+}
+.stage1work2{
+  background-color: #C0C0C0;
+  Border-radius: 20px;
+}
+p{
+  margin: 10px;
+}
